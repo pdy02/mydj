@@ -1,0 +1,30 @@
+[
+    {
+      "title": "首页",
+      "head": "dy笔记",
+      "path": "/home",
+      "icon": "el-icon-menu",
+      "active": "el-icon-menu active"
+    },
+    {
+      "title": "前端",
+      "head": "dy前端笔记",
+      "path": "/front",
+      "icon": "el-icon-platform-eleme",
+      "active": "el-icon-platform-eleme active"
+    },
+    {
+      "title": "后端",
+      "head": "dy后端笔记",
+      "path": "/back",
+      "icon": "el-icon-s-tools",
+      "active":"el-icon-s-tools active"
+    },
+    {
+      "title": "我的",
+      "head": "我的",
+      "path": "/my",
+      "icon": "el-icon-user-solid",
+      "active": "el-icon-user-solid active"
+    }
+]
